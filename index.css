@@ -260,7 +260,7 @@ left:240px;
 }
 .sex {
   position: relative;
-  top: 50px;
+  top: calc(50px - 5vh);
   
 }
 	
