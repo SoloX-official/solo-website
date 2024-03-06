@@ -200,8 +200,8 @@ text-align: center;
     top: calc(30vh - 20px);
     margin: 0 auto !important; 
 	float: none !important;
-	width: calc(30vw + 30px);
-	height: calc(65vh + 100px);
+	width: 500px;
+	height: 700px;
     }
     .prfull {
       width: 400px; 
@@ -260,7 +260,7 @@ left:240px;
 }
 .sex {
   position: relative;
-  top: calc(50px - 5vh);
+  top: 200px;
   
 }
 	
